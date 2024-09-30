@@ -12,5 +12,6 @@
 
 2. **Build Project and Deploy ( Netlify )**
 
+   ```bash
    npm run build ( branch main )
    netlify build
